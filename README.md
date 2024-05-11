@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Obami-WB Computer Science graduate with a strong interest in Data Engineering. Eager to learn and contribute to building and maintaining data pipelines for solving real-world problems using data. Proficient in Python, SQL and familiar with cloud platforms.
+- 👋 Hi, I’m Nifemi, A Computer Science graduate with a strong interest in Data Engineering. Eager to learn and contribute to building and maintaining data pipelines for solving real-world problems using data. Proficient in Python, SQL and familiar with cloud platforms.
 - 👀 I’m interested in Data science, cloud technologies and artificial inteligence
 - 🌱 I’m currently learning ... Data Engineering
 - 💞️ I’m looking to collaborate on Data science and engineering projects
